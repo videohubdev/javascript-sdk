@@ -1,21 +1,32 @@
-MIT License
+VideoHub Client SDK License
 
-Copyright (c) 2026 videohub
+Copyright (c) 2026 LETSCMS PVT LTD
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+All rights reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Permission is granted, free of charge, to any person obtaining a copy of the VideoHub Client SDK software and associated documentation files (the "Software") to download, install, use, copy, and modify the Software solely for personal, educational, research, evaluation, or internal business purposes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The Software and any modifications made to it may be used internally by the licensee but may not be distributed to third parties.
+
+The following activities are prohibited without prior written permission from LETSCMS PVT LTD:
+
+* Publishing the Software or any modified version of the Software.
+* Redistributing the Software or any modified version of the Software.
+* Selling, sublicensing, renting, leasing, hosting, or otherwise commercializing the Software as a standalone product.
+* Creating a competing product based primarily on the Software.
+* Removing, altering, or obscuring any copyright, trademark, or proprietary notices.
+* Using the trademarks, trade names, logos, or branding of LETSCMS PVT LTD without prior written permission.
+
+Ownership
+
+LETSCMS PVT LTD retains all rights, title, and interest in and to the VideoHub Client SDK, including all intellectual property rights, copyrights, trademarks, source code, documentation, updates, enhancements, and future releases.
+
+No ownership rights are transferred under this license. This license grants only the limited rights expressly stated above.
+
+Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+Limitation of Liability
+
+IN NO EVENT SHALL LETSCMS PVT LTD, ITS DIRECTORS, EMPLOYEES, CONTRIBUTORS, OR AFFILIATES BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF OR OTHER DEALINGS IN THE SOFTWARE.
