@@ -1,11 +1,13 @@
 # VideoHub Client SDK
 
 Lightweight browser SDK for building **real-time video, audio, and screen-sharing applications** using VideoHub infrastructure.
-The SDK provides a simple API to connect users to rooms, publish media tracks, subscribe to remote participants, and handle real-time events.
-What new add feature in this version (1.2.4)?
 
-**Live Recording**
-Owner can live record meeting.
+The SDK provides a simple API to connect users to rooms, publish media tracks, subscribe to remote participants, and handle real-time events.
+
+**What's New in Version 1.2.5**
+- Bug fixes and improvements.
+- Live Recording: Room owners can record meetings.
+
 It is designed to be **simple, extensible, and developer-friendly** while still exposing powerful real-time capabilities.
 
 ---
